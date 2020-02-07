@@ -1,0 +1,16 @@
+{
+  "name": "ra-data-appsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apollo-link": "^1.2.13",
+    "ra-data-graphql": "^3.0.2"
+  }
+}
