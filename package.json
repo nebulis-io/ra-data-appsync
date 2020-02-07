@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thomas Nicollet <thomas.nicollet@epitech.eu>",
   "license": "Apache-2.0",
   "dependencies": {
     "apollo-link": "^1.2.13",
