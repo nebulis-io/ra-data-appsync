@@ -1,6 +1,6 @@
 {
-  "name": "ra-data-appsync",
-  "version": "1.0.1",
+  "name": "@nebulis.io/ra-data-appsync",
+  "version": "1.0.2",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Thomas Nicollet <thomas.nicollet@epitech.eu>",
-  "license": "Apache-2.0",
+  "license": "GPLv3",
   "dependencies": {
     "apollo-link": "^1.2.13",
     "graphql": "^14.6.0",
